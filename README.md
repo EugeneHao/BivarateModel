@@ -1,2 +1,2 @@
 # BivarateModel
-This repository contains simulation codes and results. 
+This repository contains simulation codes, example simulation data and results. 
